@@ -1,0 +1,10 @@
+﻿  FiniteStateMachine.cpp
+  InstructionCreation.cpp
+  LexicalAnalysis.cpp
+  LivenessAnalysis.cpp
+  main.cpp
+  SyntaxAnalysis.cpp
+  Token.cpp
+  Generating Code...
+C:\Users\Nikola\OneDrive\Desktop\Fakultetski predmeti\II godina II semestar\Sistemska programska podrška 1\NikolaSoviljSW075\InstructionCreation.cpp(323): warning C4715: 'instructionTypeToString': not all control paths return a value
+  LexicalAnalysis.vcxproj -> C:\Users\Nikola\OneDrive\Desktop\Fakultetski predmeti\II godina II semestar\Sistemska programska podrška 1\NikolaSoviljSW075\Debug\LexicalAnalysis.exe

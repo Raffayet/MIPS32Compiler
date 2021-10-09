@@ -1,0 +1,1 @@
+Nisam uspeo da optimizujem popunjavanje lista pred i succ za instrukciju jr na odgovarajuc nacin

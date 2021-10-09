@@ -1,0 +1,2 @@
+C:\Users\Nikola\OneDrive\Desktop\Fakultetski predmeti\II godina II semestar\Sistemska programska podrška 1\NikolaSoviljSW075\Debug\LexicalAnalysis.exe
+C:\Users\Nikola\OneDrive\Desktop\Fakultetski predmeti\II godina II semestar\Sistemska programska podrška 1\NikolaSoviljSW075\Debug\LexicalAnalysis.pdb
